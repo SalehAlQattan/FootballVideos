@@ -63,6 +63,22 @@ body {
    color: #132c33;
 }
 
+.premierleague__img {
+   width: 7rem;
+}
+
+.laliga__img {
+   width: 7rem;
+}
+
+.seriea__img {
+   width: 7rem;
+}
+
+.bundesliga__img {
+   width: 7rem;
+}
+
 .league__btn {
    width: 100%;
    padding: 2rem;
